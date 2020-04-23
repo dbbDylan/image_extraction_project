@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2d83fe2-ee77-409a-b9bd-52fa1d91b199" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pythonFile/a3.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Count.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pythonFile/XML_Cut.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pythonFile/colorFulfill.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1ZwHDFBRfRUSYRPCn3Q8zr9Ev04" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Python/pythonWorkplace" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.r.configuration.RActiveInterpreterProjectConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\201902202\Second_semester_of_freshman_year\test\SeedSearch" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\201902202\Second_semester_of_freshman_year\test\SeedSearch\pythonFile" />
+      <recent name="E:\201902202\Second_semester_of_freshman_year\test\SeedSearch\resultImg" />
+      <recent name="E:\201902202\Second_semester_of_freshman_year\test\SeedSearch\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Count">
+    <configuration name="Count" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SeedSearch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Count.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SeedSearch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonFile" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonFile/a3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SeedSearch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\201902202\Second_semester_of_freshman_year\test\SeedSearch\pythonFile\a3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="imgTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SeedSearch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/imgTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pressImg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SeedSearch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\201902202\Second_semester_of_freshman_year\test\SeedSearch\pythonFile\pressImg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Count" />
+        <item itemvalue="Python.pressImg" />
+        <item itemvalue="Python.a3 (1)" />
+        <item itemvalue="Python.imgTest" />
+        <item itemvalue="Python.a3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2d83fe2-ee77-409a-b9bd-52fa1d91b199" name="Default Changelist" comment="" />
+      <created>1585743114550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585743114550</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Inspections" timestamp="1585743250699">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1585743250699" />
+    <state x="361" y="70" key="#Notifications" timestamp="1585743215110">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1585743215110" />
+    <state x="449" y="138" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585967406336">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="138" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1585967406336" />
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586072163191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1586072163191" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1586347914604">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586347914604" />
+    <state width="1515" height="203" key="GridCell.Tab.0.bottom" timestamp="1586089523611">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586089523611" />
+    <state width="1515" height="203" key="GridCell.Tab.0.center" timestamp="1586089523611">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586089523611" />
+    <state width="1515" height="203" key="GridCell.Tab.0.left" timestamp="1586089523611">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586089523611" />
+    <state width="1515" height="203" key="GridCell.Tab.0.right" timestamp="1586089523611">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586089523611" />
+    <state width="1515" height="252" key="GridCell.Tab.1.bottom" timestamp="1585755455355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585755455355" />
+    <state width="1515" height="252" key="GridCell.Tab.1.center" timestamp="1585755455355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585755455355" />
+    <state width="1515" height="252" key="GridCell.Tab.1.left" timestamp="1585755455355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585755455355" />
+    <state width="1515" height="252" key="GridCell.Tab.1.right" timestamp="1585755455355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585755455355" />
+    <state x="349" y="155" key="IDE.errors.dialog" timestamp="1585967558399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="155" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1585967558399" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1585967395622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585967395622" />
+  </component>
+</project>
